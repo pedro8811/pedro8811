@@ -1,5 +1,6 @@
 <h1 align="center">Olá, meu nome é Pedro Henrique!</h1>
-<p>🖱 Seja bem vindo ao meu portfólio no github, aqui deixo atualizado meus projetos e exercícios conforme vou adquirindo prática e conhecimento. Logo abaixo, você pode acessar meu perfil no linkedin ou entrar em contato pelo meu e-mail, obrigado!</p>
+<p>🖱 Seja bem vindo ao meu portfólio no github, aqui deixo atualizado meus projetos e exercícios conforme vou adquirindo prática e conhecimento.</p>
+<p>⌨ Logo abaixo, você pode acessar meu perfil no linkedin ou entrar em contato pelo meu e-mail, obrigado!</p>
 
 
 <div align="center">
