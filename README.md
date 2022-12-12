@@ -36,7 +36,7 @@
   <img align="center" alt="Pedro-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 </div>
 
- <br> 
+##
  
 <div style="display: inline_block" align="center">
 <a href="https://www.linkedin.com/in/pedro-henrique-ferreira-matos-4b2b981b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
