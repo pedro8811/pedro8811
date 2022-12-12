@@ -25,6 +25,8 @@
   <img align="center" alt="Pedro-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
 
+##
+  
 <div style="display: inline_block" align="center">
   <h1>OS & Softwares that I use</h1>
   <img align="center" alt="Pedro-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
@@ -33,7 +35,9 @@
   <img align="center" alt="Pedro-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Pedro-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 </div>
- 
+
+##
+  
 <div style="display: inline_block" align="center">
 <a href="https://www.linkedin.com/in/pedro-henrique-ferreira-matos-4b2b981b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
