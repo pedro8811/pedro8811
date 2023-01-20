@@ -2,13 +2,6 @@
 <p>🖱 Welcome to my github profile, here I keep my projects and exercises updated as I practice and acquire knowledge.</p>
 <p>⌨ Just below, you can access my linkedin profile to see other information and ways to contact me, thank you!</p>
 
-
-<div align="center">
-  <a href="https://github.com/pedro8811">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pedro8811&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro8811&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ##
 
 <div style="display: inline_block" align="center">
