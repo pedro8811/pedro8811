@@ -4,6 +4,7 @@
 
 <div align="center">
   <img width="48%" src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952vp2q02j1ee6p9qlvwp5k1nbvx609ww8e9ywp1bj0&rid=giphy.gif&ct=s"/>
+  <img width="48%" src="https://media0.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b9525aa6f841ff26e69c5faa8ab417d54d28e2629a7e&rid=giphy.gif&ct=s"/>
 </div>
 
 ##
