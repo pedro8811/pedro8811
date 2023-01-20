@@ -2,6 +2,10 @@
 <p>🖱 Welcome to my github profile, here I keep my projects and exercises updated as I practice and acquire knowledge.</p>
 <p>⌨ Just below, you can access my linkedin profile to see other information and ways to contact me, thank you!</p>
 
+<div align="center">
+  <img width="48%" src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952vp2q02j1ee6p9qlvwp5k1nbvx609ww8e9ywp1bj0&rid=giphy.gif&ct=s"/>
+</div>
+
 ##
 
 <div style="display: inline_block" align="center">
