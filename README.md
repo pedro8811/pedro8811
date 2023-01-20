@@ -22,7 +22,7 @@
 </div>
 
 ##
-  
+
 <div style="display: inline_block" align="center">
   <h1>OS & Softwares that I use</h1>
   <img align="center" alt="Pedro-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
