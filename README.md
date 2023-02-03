@@ -32,6 +32,10 @@
   <img align="center" alt="Pedro-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 </div>
 
+<div>
+  <img width="30" src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e474gdh02yrk7jmtbmfv6lgkxzjt14cl3faojlq5ly5&rid=giphy.gif&ct=g"/>
+</div>
+
 ##
   
 <div style="display: inline_block" align="center">
