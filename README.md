@@ -33,7 +33,7 @@
 </div>
 
 <div>
-  <img width="30" src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e474gdh02yrk7jmtbmfv6lgkxzjt14cl3faojlq5ly5&rid=giphy.gif&ct=g"/>
+  <img src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e474gdh02yrk7jmtbmfv6lgkxzjt14cl3faojlq5ly5&rid=giphy.gif&ct=g"/>
 </div>
 
 ##
