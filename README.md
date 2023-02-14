@@ -9,9 +9,9 @@
 </div>
 
 ##
-<div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro881&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro881&hide=issues,contribs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div style="display: inline_block" align="center">
 <a href="https://www.linkedin.com/in/pedro-henrique-ferreira-matos-4b2b981b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
