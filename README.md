@@ -8,23 +8,6 @@
   <li>OS & Softwares that I use: <b>Windows, Linux, Visual Studio Code, Figma, Trello.</b></li>
 </div>
 
-
-
-<div style="display: inline_block" align="center">
-  <h1>Other tecnologies</h1>
-  <img align="center" alt="Pedro-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="Pedro-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-  <img align="center" alt="Pedro-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="Pedro-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-  <img align="center" alt="Pedro-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-</div>
-
-
-
-<div style="display: inline_block" align="center">
- 
-</div>
-
 ##
   
 <div style="display: inline_block" align="center">
