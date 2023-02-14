@@ -5,7 +5,7 @@
 <ul>
   <li>Currently studying & what I use most: <b>React, JavaScript, HTML5, CSS3 e NodeJS</b></li>
   <li>I also know & use it on a day by day: <b>Bootstrap, npm, Git, jQuery, SASS, styled components.</b></li>
-  <li>OS & Softwares that I use: <b>Windows, </b> <b>Linux, </b> <b>Visual Studio Code, </b> <b>Figma, </b> <b>Trello.</b></li>
+  <li>OS & Softwares that I use: <b>Windows, Linux, Visual Studio Code, Figma, Trello.</b></li>
 </div>
 
 
