@@ -3,7 +3,7 @@
 <p>⌨ Just below, you can access my linkedin profile to see other information and ways to contact me, thank you!</p>
 
 <ul>
-  <li>📚 Currently studying & what I use most: <b>React, Node.js, JavaScript, HTML5 & CSS3</b></li>
+  <li>📚 Currently studying & what I use most: <b>Python, React, Node.js, JavaScript, HTML5 & CSS3</b></li>
   <li>🔍 I also know & use it on a day by day: <b>Bootstrap, npm, Git, jQuery, SASS & styled components.</b></li>
   <li>🖥 OS & Softwares that I use: <b>Windows, Linux, Visual Studio Code, Figma & Trello.</b></li>
 </div>
