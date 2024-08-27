@@ -8,12 +8,12 @@
   <li>🖥 OS & Softwares that I use: <b>Windows, Linux, Visual Studio Code, Figma & Trello.</b></li>
 </div>
 
-<br><br>
+<br>
 <div style="align:center;">
   <img height = "180em"  src= "https://github-readme-stats.vercel.app/api?username=pedro8811&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
   <img height = "180em"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pedro8811&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
-<br><br>
+<br>
 <div style="display: flex" align="center">
 <a href="https://www.linkedin.com/in/pedro-henrique-ferreira-matos-4b2b981b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
