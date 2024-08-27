@@ -8,7 +8,7 @@
   <li>🖥 OS & Softwares that I use: <b>Windows, Linux, Visual Studio Code, Figma & Trello.</b></li>
 </div>
 
-<div style="align:center;">
+<div style="align:center;margin-top:12px;margin-bottom:12px;">
   <img height = "180em"  src= "https://github-readme-stats.vercel.app/api?username=pedro8811&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
   <img height = "180em"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pedro8811&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
